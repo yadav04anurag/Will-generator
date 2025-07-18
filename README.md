@@ -100,7 +100,7 @@
 
 ## Live Demo
 
-🚀 **[View Live Demo on Vercel](https://willgenerator.vercel.app/)** 🚀
+🚀 **[View Live Demo on Vercel](https://will-generator-br7h.vercel.app/)** 🚀
 
 ## Contributing
 
