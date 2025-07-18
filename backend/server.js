@@ -23,7 +23,7 @@ app.use('/api/auth', authRoutes);
 app.use('/api/wills', willRoutes);
 app.use('/api/ai', aiRoutes);
 
-app.get('/', (req, res) => res.send("Backend is running"));
+app.get('/', (req, res) => res.send(" Your Backend is running"));
 
 const PORT = process.env.PORT || 5000;
 
